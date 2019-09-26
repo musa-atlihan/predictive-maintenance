@@ -2,7 +2,7 @@
 Time to failure (TTF) using Weibull distribution and recurrent neural networks in Keras.
 
 ## How to get the dataset?
-I am using a dataset from Microsoft that is composed of 5 csv files. 
+I am using a dataset from Microsoft that is composed of 5 csv files (a dataset collected by [Fidan Boylu Uz](https://azure.microsoft.com/en-au/blog/author/fboylu/) from Microsoft). 
 Please go to this [link](https://gallery.azure.ai/Experiment/Predictive-Maintenance-Implementation-Guide-Data-Sets-1) and follow to instructions to download the files.
 On the page, click the `Open in Studio` button and then:
 
@@ -12,7 +12,7 @@ Open the experiment in Studio and run the experiment. Once the experiment has su
 
 Please download all 5 csv files into `ml/data/ms-dataset` folder.
 
-## create anaconda environment and install requirements
+## Create Anaconda environment and install requirements
 - `cd ml`
 - `conda create --name predictive-maintenance python=3.6`
 - `source activate predictive-maintenance`
