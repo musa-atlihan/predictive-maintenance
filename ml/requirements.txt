@@ -1,0 +1,12 @@
+jupyter
+notebook
+pandas
+numpy
+tqdm
+pillow
+opencv-python
+dvc[s3]
+dvc
+matplotlib
+tensorflow-gpu==1.8.0
+keras
