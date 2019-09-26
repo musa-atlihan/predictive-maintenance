@@ -6,7 +6,7 @@ I am using a dataset from Microsoft that is composed of 5 csv files (a dataset c
 Please go to this [link](https://gallery.azure.ai/Experiment/Predictive-Maintenance-Implementation-Guide-Data-Sets-1) and follow to instructions to download the files.
 On the page, click the `Open in Studio` button and then:
 
-`txt
+`
 Open the experiment in Studio and run the experiment. Once the experiment has successfully run, right click the output ports of Convert to csv modules, and use Save as Dataset option to save the datasets to your workspace. Use the exact names provided in the Import Data module descriptions which are telemetry, errors, maint, machines and failures to name these datasets as you save them.
 `
 
