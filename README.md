@@ -12,6 +12,8 @@ Open the experiment in Studio and run the experiment. Once the experiment has su
 
 Please download all 5 csv files into `ml/data/ms-dataset` folder.
 
+Name the files as `telemetry.csv`, `errors.csv`, `maint.csv`, `machines.csv`, and `failures.csv`
+
 ## Create Anaconda environment and install requirements
 - `cd ml`
 - `conda create --name predictive-maintenance python=3.6`
