@@ -10,3 +10,4 @@ dvc
 matplotlib
 tensorflow-gpu==1.8.0
 keras
+seaborn
