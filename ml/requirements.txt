@@ -11,3 +11,6 @@ matplotlib
 tensorflow-gpu==1.8.0
 keras
 seaborn
+scikit-learn
+lightgbm
+xgboost
