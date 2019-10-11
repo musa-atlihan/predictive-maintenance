@@ -8,7 +8,7 @@ opencv-python
 dvc[s3]
 dvc
 matplotlib
-tensorflow-gpu==1.8.0
+tensorflow-gpu==1.12.0
 keras
 seaborn
 scikit-learn
